@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: currency-exchange-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tr_lnd_user
+Implementation-Vendor-Id: com.ronelle.microservices
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/currency-exchange-service
+Created-By: Maven Integration for Eclipse
+
