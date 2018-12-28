@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: server.ronelle.s.nolasco
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tr_lnd_user
+Implementation-Vendor-Id: bars.login
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/server.ronelle.s.nolasco
+Created-By: Maven Integration for Eclipse
+
